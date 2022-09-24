@@ -3,9 +3,11 @@
 <div align="center">  
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WeslleySantosln&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleySantosln&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 </div>
 
 <div style="display: inline_block"><br>
+<img align="center" alt="Weslley-Java" height="50" width="150" src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117"/>
 <img align="center" alt="Weslley-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original-wordmark.svg"/>
 <img align="center" alt="Weslley-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" ">
 </div>
