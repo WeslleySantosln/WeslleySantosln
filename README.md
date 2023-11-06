@@ -6,7 +6,7 @@
 
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   
 
 <img align="center" alt="Weslley-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
