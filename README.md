@@ -11,11 +11,11 @@
 
 <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="center" alt="pb" height="50" width="60" src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" />
-<img align="center" alt="sql" height="50" width="60" src="https://img.icons8.com/?size=80&id=4ZM6CrdtsQVN&format=png" />
+<img align="center" alt="sql" height="50" width="60" src="https://img.icons8.com/?size=64&id=QSjnrUKYMnxO&format=png" />
 <img align="center" alt="rpa" height="50" width="60" src="https://img.icons8.com/?size=80&id=wj64HuimhBit&format=png" />
 
 <img align="center" alt="js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="js" height="50" width="60" src="https://img.icons8.com/?size=80&id=103633&format=png" />
+<img align="center" alt="grafico" height="50" width="60" src="https://img.icons8.com/?size=40&id=21219&format=png" />
 
 
 <img align="center" alt="sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
