@@ -8,7 +8,6 @@
 
 <div align="center" style="display: inline_block"><br>
   
-
 <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="center" alt="pb" height="50" width="60" src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" />
 <img align="center" alt="sql" height="50" width="60" src="https://img.icons8.com/?size=64&id=QSjnrUKYMnxO&format=png" />
