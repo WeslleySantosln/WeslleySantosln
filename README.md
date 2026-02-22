@@ -3,12 +3,7 @@
 ##
 
 <div align="center">  
-  <img 
-    width="40%" 
-    height="195px" 
-    <img src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/master/stats.svg" alt="GitHub Stats" />
-    alt="Weslley Santos GitHub Stats" 
-  /> 
+  <img src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/master/stats.svg" alt="GitHub Stats" />
   <img 
     width="49%" 
     height="195px" 
