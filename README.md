@@ -6,13 +6,13 @@
   <img 
     width="40%" 
     height="195px" 
-    src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/master/stats.svg" 
+    src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/main/stats.svg" 
     alt="Weslley Santos GitHub Stats" 
   /> 
   <img 
     width="49%" 
     height="195px" 
-    src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/master/top-langs.svg" 
+    src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/main/top-langs.svg" 
     alt="Weslley Santos Top Languages" 
   />
 </div>
