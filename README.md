@@ -6,7 +6,7 @@
   <img 
     width="40%" 
     height="195px" 
-    src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/master/stats.svg" 
+    <img src="https://raw.githubusercontent.com/WeslleySantosln/github-readme-stats/master/stats.svg" alt="GitHub Stats" />
     alt="Weslley Santos GitHub Stats" 
   /> 
   <img 
