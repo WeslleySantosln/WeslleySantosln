@@ -63,7 +63,7 @@ Organize suas tarefas de maneira simples e prática!
 
 <br>
 
-<a href="https://simplifique-lista-kanban-home.web.app" target="_blank">
+<a href="https://simplifique-vida-home.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/CONHEÇA%20MEU%20APP-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Conheça meu aplicativo Android"/>
 </a>
 
