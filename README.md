@@ -57,7 +57,7 @@
 
 <br>
 
-**Simplifique Lista Kanban**
+**Simplifique Vida**
 
 Organize suas tarefas de maneira simples e prática!
 
